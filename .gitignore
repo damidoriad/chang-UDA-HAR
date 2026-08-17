@@ -1,0 +1,15 @@
+notebooks/Xydata.npz
+notebooks/Xycort.npz
+notebooks/T0_values.csv
+notebooks/f0est.npz
+modelos/waist_adapt_history_thigh.csv
+modelos/baseline_classifier_shin.pth
+modelos/baseline_classifier_upperarm.pth
+modelos/baseline_encoder_chest.pth
+modelos/baseline_encoder_forearm.pth
+modelos/baseline_encoder_head.pth
+modelos/baseline_encoder_shin.pth
+modelos/baseline_encoder_thigh.pth
+modelos/baseline_encoder_upperarm.pth
+modelos/baseline_encoder_waist.pth
+/modelos
