@@ -13,3 +13,4 @@ modelos/baseline_encoder_thigh.pth
 modelos/baseline_encoder_upperarm.pth
 modelos/baseline_encoder_waist.pth
 /modelos
+*.csv
