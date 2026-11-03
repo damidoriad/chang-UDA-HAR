@@ -16,3 +16,5 @@ modelos/baseline_encoder_waist.pth
 *.csv
 notebooks/grafico.html
 notebooks/dadosF0.pkl
+notebooks/RW_feats.pkl
+notebooks/PAMAP_feats.pkl
